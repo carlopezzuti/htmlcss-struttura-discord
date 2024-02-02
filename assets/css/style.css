@@ -133,6 +133,26 @@ footer {
 -----------------------*/
 
 .fbottom {
+    margin: auto;
     width: 1180px;
     height: 100px;
+}
+
+.endpage {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7FFFD4;
+    width: 1180px;
+    height: 70px;
+    padding: 15px 0;
+}
+
+.flogo {
+    background-color: #FFB6C1;
+    padding: 5px;
+}
+
+.fbottone {
+    background-color: #FFB6C1;
+    padding: 5px;
 }
