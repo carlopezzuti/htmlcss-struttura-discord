@@ -86,4 +86,47 @@ header {
     FOOTER
 -----------------------*/
 
+footer {
+    background-color: #23272A;
+    width: 100%;
+}
 
+/*-----------------------
+    FOOTER TOP
+-----------------------*/
+
+.ftop {
+    padding: 10px 0;
+    height: 700px;
+    margin: auto;
+    display: flex;
+    width: 1180px;
+}
+
+.f-left {
+    height: 90%;
+    width: 30%;
+    background-color: #F08080;
+    border: 1px solid black;
+}
+
+.f-right {
+    display: flex;
+    height: 90%;
+    width: 70%;
+    background-color: #20B2AA;
+}
+
+.f-25 {
+    width: 25%;
+    border: 1px solid black;
+}
+
+/*-----------------------
+    FOOTER BOTTOM
+-----------------------*/
+
+.fbottom {
+    width: 1180px;
+    height: 100px;
+}
