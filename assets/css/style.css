@@ -45,14 +45,14 @@ header {
     padding-top: 15px;
     padding-left: 20px;
     text-align: left;
-    border: 1px dashed black;
+    border: 2px dashed black;
 }
 
 .link {
     padding-top: 15px;
     width: 60%;
     text-align: center;
-    border: 1px dashed black;
+    border: 2px dashed black;
 }
 
 .login {
@@ -60,7 +60,7 @@ header {
     padding-right: 20px;
     width: 20%;
     text-align: right;
-    border: 1px dashed black;
+    border: 2px dashed black;
 }
 
 /*-----------------------
@@ -113,7 +113,7 @@ footer {
     height: 90%;
     width: 30%;
     background-color: #F08080;
-    border: 1px dashed black;
+    border: 2px dashed black;
 }
 
 .f-right {
@@ -125,7 +125,7 @@ footer {
 
 .f-25 {
     width: 25%;
-    border: 1px dashed black;
+    border: 2px dashed white;
 }
 
 /*-----------------------
