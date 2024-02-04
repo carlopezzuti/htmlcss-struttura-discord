@@ -86,7 +86,66 @@ header {
     MAIN
 -----------------------*/
 
+.main-white {
+    background-color: white;
+}
 
+.main-gray {
+    background-color: #D3D3D3;
+}
+
+.main-section {
+    width: 1180px;
+    height: 500px;
+    display: flex;
+    margin: auto;
+}
+
+.main-blue {
+    margin-top: 50px;
+    width: 70%;
+    height: 80%;
+    background-color: #1E90FF;
+    border: 2px dashed black;
+}
+
+.main-pink {
+    margin-top: 50px;
+    width: 30%;
+    height: 80%;
+    background-color: #FFC0CB;
+    border: 2px dashed black;
+}
+
+.reverse-blue {
+    margin-top: 50px;
+    width: 30%;
+    height: 80%;
+    background-color: #1E90FF;
+    border: 2px dashed black;
+}
+
+.reverse-pink {
+    margin-top: 50px;
+    width: 70%;
+    height: 80%;
+    background-color: #FFC0CB;
+    border: 2px dashed black;
+}
+
+.main-bottom {
+    height: 1280px;
+    width: 100%;
+    background-color: #D3D3D3;
+    padding-top: 50px;
+}
+
+.main-green {
+    margin: auto;
+    width: 1180px;
+    height: 1180px;
+    background-color: #228B22;
+}
 
 /*-----------------------
     FOOTER
